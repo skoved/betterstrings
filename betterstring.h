@@ -6,3 +6,8 @@ typedef struct BetterString{
 
 //creates an empty String
 
+
+//get the length of a String
+int length(String sad){
+    while(
+}
